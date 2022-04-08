@@ -1,0 +1,14 @@
+package br.com.flettieri.crud.entity;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "produto")
+public class Produto implements Serializable {
+
+	
+	
+}

@@ -1,0 +1,5 @@
+package br.com.flettieri.crud.service;
+
+public class ProdutoService {
+
+}
